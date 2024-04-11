@@ -1,6 +1,6 @@
 # Hippo the AI Radiology Assistant
 
-This repo is based on (Chester the AI Radiology assistant)[https://github.com/mlmed/chester-xray]. Thank you to the authors for their great work!
+This repo is based on [Chester the AI Radiology assistant](https://github.com/mlmed/chester-xray). Thank you to the authors for their great work!
 
 In addition, this repo should include:
 - **Upgraded website UI**
