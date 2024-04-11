@@ -1,5 +1,15 @@
 # Hippo the AI Radiology Assistant
 
+## Run index.htm file on localhost (see [StackOverflow](https://stackoverflow.com/questions/38497334/how-to-run-html-file-on-localhost))
+
+You can run your file in http-server.
+- Have Node.js installed in your system.
+- In CMD, run the command `npm install http-server -g`
+- Navigate to the specific path of your file folder in CMD and run the command http-server
+- Go to your browser and type `localhost:8080`. 
+
+---
+
 This repo is based on [Chester the AI Radiology assistant](https://github.com/mlmed/chester-xray). Thank you to the authors for their great work!
 
 In addition, this repo should include:
